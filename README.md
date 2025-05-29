@@ -51,8 +51,12 @@ Pickle<br>
 
 
 ## Acknowledgements<br>
+This project references code and ideas from the open-source repository:  
+🔗 [vatika17/signlanguage_recognition](https://github.com/vatika17/signlanguage_recognition)
+
 We would like to thank the original author for their contribution.  
 Parts of the dataset structure, model design, or implementation may be inspired or adapted from their work.  
 Please refer to the original repository for more details and licensing information.
+
 # Demo
 
