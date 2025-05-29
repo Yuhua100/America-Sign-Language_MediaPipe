@@ -42,12 +42,17 @@ scikit-learn intelex<br>
 Numpy<br>
 Pickle<br>
 ## Dependencies on Mac M1/M2
-opencv-python<br>  
-mediapipe<br>  
-scikit-learn<br>  
-Numpy<br>  
+opencv-python<br>
+mediapipe<br>
+scikit-learn<br>
+Numpy<br>
 Pickle<br>
 
 
+
+## Acknowledgements<br>
+We would like to thank the original author for their contribution.  
+Parts of the dataset structure, model design, or implementation may be inspired or adapted from their work.  
+Please refer to the original repository for more details and licensing information.
 # Demo
 
